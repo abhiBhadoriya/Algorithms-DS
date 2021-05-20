@@ -1,2 +1,2 @@
 # Algorithms-DS
-Top algos and DS, codes.
+Problems and code by doing some good problems on algorithms and data structure on interviewbit.
